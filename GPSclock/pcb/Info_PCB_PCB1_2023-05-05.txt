@@ -1,0 +1,19 @@
+﻿Project Title: 		GPSclock
+Borard Title: 		Board1
+PCB Title: 		pcb1
+Time: 		2023-05-05 15:19:25
+
+Borard Size: 		77.458mm x 65.989mm
+Layers: 		Total 22, Copper 2
+
+Devices: 		27
+Footprints: 		21
+Components: 		Total 33,Top Layer 33,Bottom Layer 0
+Pads: 		Total 154, Table Stick 135,Metallized Hole 19, Nonmetallic Hole 0
+Nets: 		Total 24, Unrouted 0
+
+Slot Region: 		0
+Vias: 		Total 184, Through Vias 184, Blind Or Buried Vais 0
+CopperAreas: 		7
+Length of Tracks: 		544.36mm
+
